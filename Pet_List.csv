@@ -1,0 +1,6 @@
+Mar 27, 2024 9:59:28 AM io.zipcoder.polymorphism.MainApplication writeToFile
+INFO: User has:1
+Mar 27, 2024 9:59:31 AM io.zipcoder.polymorphism.MainApplication writeToFile
+INFO: Type of pet(s):dog
+Mar 27, 2024 9:59:33 AM io.zipcoder.polymorphism.MainApplication writeToFile
+INFO: Name of pet(s):mittens
